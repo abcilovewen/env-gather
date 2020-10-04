@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+    <backup class="com.briup.smart.env.util.impl.BackupImpl">
+        <back-dir>E:/smart_program</back-dir>
+    </backup>
+    <client class="com.briup.smart.env.client.impl.ClientImpl">
+        <server-ip>127.0.0.1</server-ip>
+        <port>8088</port>
+    </client>
+    <gather class="com.briup.smart.env.client.impl.GatherImpl">
+        <data-file-path>E:/smart_program/data-file-simple</data-file-path>
+    </gather>
+</configuration>

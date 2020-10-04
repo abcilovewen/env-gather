@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<environment>
+	<logger class="com.briup.smart.env.util.LogImpl">
+	</logger>
+	<backup class="com.briup.smart.env.util.BackupImpl">
+		<file-path></file-path>
+	</backup>
+	<server class="com.briup.smart.env.server.ServerThreadImpl">
+		<server-port>8099</server-port>
+	</server>
+	<dbStore class="com.briup.smart.env.server.DBStoreImpl">
+		<driver>oracle.jdbc.driver.OracleDriver</driver>
+		<url>jdbc:oracle:thin:@localhost:1521:xe</url>
+		<username>tjh</username>
+		<password>tjh</password>
+	</dbStore>
+</environment>

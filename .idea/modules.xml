@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/env-client/env-client.iml" filepath="$PROJECT_DIR$/env-client/env-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/env-common/env-common.iml" filepath="$PROJECT_DIR$/env-common/env-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/env-gather.iml" filepath="$PROJECT_DIR$/env-gather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/env-interface/env-interface.iml" filepath="$PROJECT_DIR$/env-interface/env-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/env-server/env-server.iml" filepath="$PROJECT_DIR$/env-server/env-server.iml" />
+    </modules>
+  </component>
+</project>
